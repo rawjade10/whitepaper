@@ -1,0 +1,6 @@
+root: .
+title: RawJade White Paper
+description: 채굴 없는 창작 경제, RawJade의 전체 구조와 철학을 소개합니다.
+structure:
+  summary: SUMMARY.md
+language: ko
