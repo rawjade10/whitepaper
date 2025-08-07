@@ -7,24 +7,23 @@
 
 ## 🔗 문서 바로가기
 
-📘 [백서 보기 (GitBook)](https://app.gitbook.com/o/...) ← 연결 후 주소 붙여넣기
+📘 [백서 보기 (GitBook)](https://app.gitbook.com/o/...) ← 연결 후 실제 주소를 여기에 붙여주세요
 
 ---
 
 ## 📁 디렉토리 구조
 
+```
 .
-├── .gitbook.yaml # GitBook 설정 파일
-├── README.md # 저장소 설명
-└── docs/ # 문서 콘텐츠
-├── SUMMARY.md
-├── welcome/
-├── ecosystem/
-└── ...
-
-yaml
-복사
-편집
+├── .gitbook.yaml       # GitBook 설정 파일
+├── README.md           # 저장소 설명
+└── docs/               # 문서 콘텐츠
+    ├── SUMMARY.md
+    ├── welcome/
+    ├── ecosystem/
+    ├── roles/
+    └── ...
+```
 
 ---
 
@@ -32,11 +31,12 @@ yaml
 
 - GitHub + GitBook (자동 동기화)
 - Markdown 기반 버전 관리
-- 다국어 번역 확장 예정
+- 다국어 번역 확장 예정 (`ko`, `en`, `ja`)
 
 ---
 
 ## 📬 문의
 
-- Website: [rawjade.org](https://rawjade.org)
+- Website: [https://rawjade.org](https://rawjade.org)
 - Email: contact@rawjade.org (예시)
+
