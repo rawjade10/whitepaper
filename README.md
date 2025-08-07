@@ -11,21 +11,13 @@
 
 ---
 
-## 📁 디렉토리 구조
+## 📁 디렉토리 구조 (텍스트 스타일)
+- `.gitbook.yaml` – GitBook 설정
+- `README.md` – 저장소 소개
+- `docs/` – 문서 전용 디렉토리
+  - `SUMMARY.md`
+  - `welcome/`, `ecosystem/`, ...
 
-```
-.
-├── .gitbook.yaml       # GitBook 설정 파일
-├── README.md           # 저장소 설명
-└── docs/               # 문서 콘텐츠
-    ├── SUMMARY.md
-    ├── welcome/
-    ├── ecosystem/
-    ├── roles/
-    └── ...
-```
-
----
 
 ## 🛠 기술 스택
 
